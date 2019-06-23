@@ -1,0 +1,2 @@
+cleveland_crime_data_2016-2018,https://www.kaggle.com/kasumil5x/middlesbrough-2016-2018-street-crimes
+cuyahoga_county_land_bank,http://cuyahogalandbank.org/properties.php
